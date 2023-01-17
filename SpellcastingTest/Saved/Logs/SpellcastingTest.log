@@ -1096,3 +1096,215 @@ Recommended: 22.2.2
 [2023.01.17-13.26.32:315][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.01.17-13.26.32:359][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
 [2023.01.17-13.26.32:409][528]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.01.17-13.29.45:387][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.17-13.29.45:413][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2023.01.17-13.39.46:030][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.01.17-13.39.46:033][867]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2023.01.17-13.49.46:462][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.17-13.49.46:463][665]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2023.01.17-13.59.46:969][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.01.17-13.59.46:970][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2023.01.17-14.09.47:451][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.01.17-14.09.47:452][263]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2023.01.17-14.19.47:915][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.17-14.19.47:916][ 62]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2023.01.17-14.19.59:201][ 97]LogDerivedDataCache: C:/Users/John/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.011 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.17-14.29.48:478][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.17-14.29.48:480][861]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2023.01.17-14.39.48:976][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.17-14.39.48:977][660]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2023.01.17-14.49.49:473][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.17-14.49.49:474][459]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2023.01.17-14.59.49:885][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.17-14.59.49:886][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2023.01.17-15.09.50:466][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.17-15.09.50:467][ 57]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2023.01.17-15.19.50:964][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.17-15.19.50:965][856]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2023.01.17-15.19.59:241][882]LogDerivedDataCache: C:/Users/John/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.011 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.17-15.29.51:378][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.17-15.29.51:379][655]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2023.01.17-15.39.51:875][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.17-15.39.51:876][454]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2023.01.17-15.49.52:381][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.17-15.49.52:382][253]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2023.01.17-15.59.52:801][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.01.17-15.59.52:802][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2023.01.17-16.03.33:107][941]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.17-16.03.33:113][941]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.17-16.03.33:114][941]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.17-16.03.33:114][941]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.17-16.03.33:114][941]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.17-16.03.33:114][941]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.17-16.03.33:114][941]LogWorldPartition: Display: GetPartitionedActors took 54 us
+[2023.01.17-16.03.33:114][941]LogWorldPartition: Display: GenerateStreaming took 183 us
+[2023.01.17-16.03.33:114][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.17-16.03.33:114][941]PIE: New page: PIE session: ThirdPersonMap (Jan 17, 2023, 6:03:33 PM)
+[2023.01.17-16.03.33:114][941]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.17-16.03.33:117][941]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.01.17-16.03.33:117][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003385s)
+[2023.01.17-16.03.33:117][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003461s)
+[2023.01.17-16.03.33:118][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-16.03.33:118][941]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.01.17-16.03.33:119][941]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.17-16.03.33:119][941]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.17-16.03.33:119][941]LogWorldPartition: Display: WorldPartition initialize took 741 us
+[2023.01.17-16.03.33:119][941]LogPlayLevel: PIE: World Init took: (0.001805s)
+[2023.01.17-16.03.33:148][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.01.17-16.03.33:151][941]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.01.17-16.03.33:151][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.17-16.03.33:151][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.17-16.03.33:151][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.17-16.03.33:151][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.17-16.03.33:151][941]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.17-16.03.33:151][941]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.17-16.03.33:151][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.17-16.03.33:151][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.17-16.03.33:151][941]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.17-16.03.33:151][941]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.17-16.03.33:151][941]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.17-16.03.33:154][941]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.17-16.03.33:185][941]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.01.17-16.03.33:186][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.17-16.03.33:186][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.17-16.03.33:186][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.17-16.03.33:187][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.01.17-16.03.33:187][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.01.17-16.03.33:189][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.01.17-16.03.33:189][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.01.17-16.03.33:189][941]LogInit: FAudioDevice initialized.
+[2023.01.17-16.03.33:189][941]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2023.01.17-16.03.33:202][941]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.17-16.03.33:203][941]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.01.17-17.03.33
+[2023.01.17-16.03.33:203][941]LogWorld: Bringing up level for play took: 0.000953
+[2023.01.17-16.03.33:205][941]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.01.17-16.03.33:209][941]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.01.17-16.03.33:209][941]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.17-16.03.33:209][941]PIE: Server logged in
+[2023.01.17-16.03.33:210][941]PIE: Play in editor total start time 0.098 seconds.
+[2023.01.17-16.04.06:102][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.17-16.04.06:102][486]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.17-16.04.06:102][486]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-16.04.06:103][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-16.04.06:117][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.17-16.04.06:121][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-16.04.06:146][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.17-16.04.06:146][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.01.17-16.04.06:147][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.01.17-16.04.06:151][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.17-16.04.06:154][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.01.17-16.04.06:194][487]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.01.17-16.05.29:475][981]LogWindows: LaunchURL https://docs.unrealengine.com/5.0/en/API/
+[2023.01.17-16.10.26:417][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.17-16.10.26:420][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.028
+[2023.01.17-16.15.10:480][868]LogSlate: Window 'New Level' being destroyed
+[2023.01.17-16.15.14:153][868]LogSlate: Window 'Save Content' being destroyed
+[2023.01.17-16.15.14:653][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.01.17-16.15.14:680][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.01.17-16.15.14:706][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.17-16.15.14:777][868]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.009089 seconds
+[2023.01.17-16.15.14:778][868]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J
+[2023.01.17-16.15.14:779][868]LogSavePackage: Moving '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Saved/KHZG97SS6AL73U7AXDWH6JE3B9D4824B359B1F824E8D9BF280F048.tmp' to '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset'
+[2023.01.17-16.15.14:780][868]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR
+[2023.01.17-16.15.14:781][868]LogSavePackage: Moving '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Saved/3MZ6M1DB94VN44C87D65WRE5DDA7084587367FCE339099E928B40E.tmp' to '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset'
+[2023.01.17-16.15.14:782][868]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM
+[2023.01.17-16.15.14:782][868]LogSavePackage: Moving '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Saved/FDH7Y28CQFXDK8P6MM1HXMB57A8FF14FCC037AB5A370A9D83EF323.tmp' to '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset'
+[2023.01.17-16.15.14:784][868]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC
+[2023.01.17-16.15.14:784][868]LogSavePackage: Moving '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Saved/22PD314FCWY4ZK61DE3XZC91135CFB44CD9CFFC56A4A990174B4DF.tmp' to '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset'
+[2023.01.17-16.15.14:791][868]LightingResults: New page: Lighting Build
+[2023.01.17-16.15.14:884][868]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.17-16.15.14:885][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.17-16.15.14:925][868]MapCheck: New page: Map Check
+[2023.01.17-16.15.14:925][868]LightingResults: New page: Lighting Build
+[2023.01.17-16.15.14:949][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.17-16.15.14:953][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.01.17-16.15.14:966][868]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.17-16.15.14:966][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.17-16.15.14:967][868]LogAIModule: Creating AISystem for world Untitled
+[2023.01.17-16.15.14:983][868]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.17-16.15.14:984][868]LoadErrors: New page: New Map
+[2023.01.17-16.15.14:991][868]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.17-16.15.14:991][868]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_7D23E5AE-4C2A421F-86AF6986-D87E6D05
+[2023.01.17-16.15.15:000][868]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_EBA23F82-48252949-750E4391-1A3A1CDD
+[2023.01.17-16.15.15:000][868]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_7B7009C3-45D3D6DD-94D3429E-1D79C034
+[2023.01.17-16.15.15:000][868]LogContentValidation: Display: Validating ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_D075E5BA-49330D3E-C2503D81-A7CF88D1
+[2023.01.17-16.15.42:801][400]LogViewport: Scene viewport resized to 1379x911, mode Windowed.
+[2023.01.17-16.15.42:831][401]LogViewport: Scene viewport resized to 1379x906, mode Windowed.
+[2023.01.17-16.15.42:859][402]LogViewport: Scene viewport resized to 1379x901, mode Windowed.
+[2023.01.17-16.15.42:881][403]LogViewport: Scene viewport resized to 1379x897, mode Windowed.
+[2023.01.17-16.15.42:903][404]LogViewport: Scene viewport resized to 1379x894, mode Windowed.
+[2023.01.17-16.15.42:925][405]LogViewport: Scene viewport resized to 1379x890, mode Windowed.
+[2023.01.17-16.15.42:947][406]LogViewport: Scene viewport resized to 1379x887, mode Windowed.
+[2023.01.17-16.15.52:388][480]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.01.17-16.15.52:389][480]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.01.17-16.15.52:439][480]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled:PersistentLevel.StaticMeshActor_0
+[2023.01.17-16.15.52:462][480]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled:PersistentLevel.StaticMeshActor_0
+[2023.01.17-16.17.18:295][230]Cmd: DELETE
+[2023.01.17-16.17.18:295][230]Cmd: ACTOR DELETE
+[2023.01.17-16.17.18:296][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.17-16.17.18:427][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.01.17-16.17.18:434][230]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2023.01.17-16.17.59:581][389]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.01.17-16.17.59:581][389]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.01.17-16.17.59:582][389]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled:PersistentLevel.StaticMeshActor_1
+[2023.01.17-16.17.59:583][389]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled:PersistentLevel.StaticMeshActor_1
+[2023.01.17-16.19.12:546][955]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.12:546][955]LogEditorTransaction: Undo Toggle Absolute Location
+[2023.01.17-16.19.14:020][ 72]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.14:020][ 72]LogEditorTransaction: Undo Toggle Absolute Location
+[2023.01.17-16.19.14:180][ 91]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.14:180][ 91]LogEditorTransaction: Undo Set Location
+[2023.01.17-16.19.14:343][107]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.14:343][107]LogEditorTransaction: Undo Set Location
+[2023.01.17-16.19.14:495][125]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.14:495][125]LogEditorTransaction: Undo Set Location
+[2023.01.17-16.19.14:681][147]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.14:681][147]LogEditorTransaction: Undo Create Actor
+[2023.01.17-16.19.14:822][164]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.14:822][164]LogEditorTransaction: Undo Delete Elements
+[2023.01.17-16.19.14:982][178]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.14:982][178]LogEditorTransaction: Undo Edit Mobility
+[2023.01.17-16.19.15:142][197]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.15:142][197]LogEditorTransaction: Undo Edit Mobility
+[2023.01.17-16.19.15:297][215]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.15:297][215]LogEditorTransaction: Undo Set Location
+[2023.01.17-16.19.15:466][235]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.15:466][235]LogEditorTransaction: Undo Set Location
+[2023.01.17-16.19.15:635][255]Cmd: TRANSACTION UNDO
+[2023.01.17-16.19.15:635][255]LogEditorTransaction: Undo Create Actor
+[2023.01.17-16.19.35:554][430]LogViewport: Scene viewport resized to 1057x887, mode Windowed.
+[2023.01.17-16.19.44:884][456]LogViewport: Scene viewport resized to 944x887, mode Windowed.
+[2023.01.17-16.19.50:634][ 79]LogStaticMesh: Display: Building static mesh Box_9654DB8A...
+[2023.01.17-16.19.50:634][ 79]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/_GENERATED/John/Box_9654DB8A) ...
+[2023.01.17-16.19.50:886][ 79]LogStaticMesh: Built static mesh [0.20s] /Game/_GENERATED/John/Box_9654DB8A.Box_9654DB8A
+[2023.01.17-16.19.50:903][ 79]LogStaticMesh: Display: Building static mesh Box_9654DB8A...
+[2023.01.17-16.19.50:903][ 79]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/John/Box_9654DB8A.Box_9654DB8A
+[2023.01.17-16.19.50:903][ 79]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/_GENERATED/John/Box_9654DB8A) ...
+[2023.01.17-16.19.53:017][257]LogViewport: Scene viewport resized to 1379x887, mode Windowed.
+[2023.01.17-16.19.59:201][982]LogDerivedDataCache: C:/Users/John/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.016 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.17-16.20.27:555][739]LogViewport: Scene viewport resized to 1057x887, mode Windowed.
+[2023.01.17-16.20.35:751][680]Cmd: DELETE
+[2023.01.17-16.20.35:751][680]Cmd: ACTOR DELETE
+[2023.01.17-16.20.35:753][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.17-16.20.35:850][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.01.17-16.20.35:860][680]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2023.01.17-16.20.39:965][141]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.01.17-16.20.47:014][923]LogEditorViewport: Clicking Background
+[2023.01.17-16.25.06:927][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.01.17-16.25.06:931][360]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.033
+[2023.01.17-16.25.06:957][360]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/John/Box_9654DB8A] ([1] browsable assets)...
+[2023.01.17-16.25.07:007][360]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/John/Box_9654DB8A.Box_9654DB8A]
+[2023.01.17-16.25.07:007][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/John/Box_9654DB8A]
+[2023.01.17-16.25.07:010][360]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/John/Box_9654DB8A_Auto1
+[2023.01.17-16.25.07:010][360]LogSavePackage: Moving '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Saved/Box_9654DB8A_Auto1C70D74F84AEB31AD87D60CA07C07701B.tmp' to '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Saved/Autosaves/Game/_GENERATED/John/Box_9654DB8A_Auto1.uasset'
+[2023.01.17-16.25.07:010][360]LogFileHelpers: Auto-saving content packages took 0.079
+[2023.01.17-17.01.05:613][183]LogSlate: Window 'Save Level As' being destroyed
+[2023.01.17-17.01.05:771][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.17-17.01.05:797][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.01.17-17.01.05:804][183]LogSavePackage: Moving output files for package: /Game/TestLevel
+[2023.01.17-17.01.05:804][183]LogSavePackage: Moving '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Saved/TestLevel6A840E0F45E30E339E18E2B2A63E22BB.tmp' to '../../../../../../Repository/GitHub/Spellcastingtest/SpellcastingTest/Content/TestLevel.umap'
+[2023.01.17-17.01.05:815][183]LogFileHelpers: Saving map 'TestLevel' took 0.194
+[2023.01.17-17.01.05:821][183]AssetCheck: New page: Asset Save: TestLevel
+[2023.01.17-17.01.05:821][183]LogContentValidation: Display: Validating World /Game/TestLevel.TestLevel
+[2023.01.17-17.19.59:274][665]LogDerivedDataCache: C:/Users/John/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.025 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.17-18.19.59:347][455]LogDerivedDataCache: C:/Users/John/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.055 and deleted 0 file(s) with total size 0 MiB.
